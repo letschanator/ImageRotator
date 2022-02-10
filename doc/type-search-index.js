@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ImageRotatorFrame"},{"p":"<Unnamed>","l":"ImageRotatorRunner"},{"p":"<Unnamed>","l":"ImageRotatorFrame.RotatablePicture"}]
